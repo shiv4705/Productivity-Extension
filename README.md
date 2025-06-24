@@ -106,5 +106,19 @@ The extension requires the following permissions:
 
 
 ## Output
+![Image](https://github.com/user-attachments/assets/a3e0cc39-3f8a-426d-97df-42c020df78e7)
+_Extension Overview_
+
+![Image](https://github.com/user-attachments/assets/77e6b83a-23fd-440d-9dcb-e47b46db24b0)
+_Extension in Light Mode_
+
+![Image](https://github.com/user-attachments/assets/45772b0e-937f-430b-8b78-ef70d29bb835)
+_Extension in Dark Mode_
+
+![Image](https://github.com/user-attachments/assets/a9961ad2-d335-4d78-bc99-bef02aac24c0)
+_Blocked Websites_
+
+![Image](https://github.com/user-attachments/assets/15f6168b-3807-424c-87b8-99a584ff16f5)
+_Notification after completing pomodoro timer_
 
 **Stay focused, stay productive!**
