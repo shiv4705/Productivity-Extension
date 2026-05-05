@@ -1,17 +1,5 @@
 # Productivity Manager Extension
 
-_COMPANY_: CODTECH IT SOLUTIONS
-
-_NAME_: SHIV PATEL
-
-_INTERN ID_: CT06DL588
-
-_DOMAIN_: MERN STACK WEB DEVELOPMENT
-
-_DURATION_: 6 WEEKS
-
-_MENTOR_: NEELA SANTOSH
-
 A comprehensive Chrome extension designed to boost your productivity with task management, Pomodoro timer, and distraction blocking features.
 
 ## Features
